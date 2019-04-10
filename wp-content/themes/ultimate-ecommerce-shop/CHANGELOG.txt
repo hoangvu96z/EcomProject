@@ -1,0 +1,15 @@
+Version 0.1
+	i. Initial version Released.
+
+Version 0.2
+	i.  Added the theme url in readme.txt file.
+	ii. Add the wp content code in custom page template file. 
+
+Version 0.3
+	i.  Changed the top product from content creation to pages.
+	ii. Added the custom widget option for social icons.
+
+Version 0.3.1
+	i.  Added post format.
+	ii. Updated Bootstrap.
+	iii. Added potfile.
