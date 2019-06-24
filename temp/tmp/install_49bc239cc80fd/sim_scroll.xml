@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.9">
+   <name>Module chữ chạy trên Toolbar</name>                                    
+   <creationDate>March 2009</creationDate>
+   <author>thuclh</author>
+   <authorEmail>thuc.lehuy@gmail.com</authorEmail>
+   <authorUrl>thuclh</authorUrl>
+   <copyright>Copyright Notice</copyright>
+   <license>Component License Agreement</license>
+   <version>0.1</version>
+   <description>Manager Module ToolbarScrolldescription>      
+   <files>
+        <filename module="mod_scrolltoolbar">mod_scrolltoolbar.php</filename>
+   </files>
+  </install>

@@ -1,0 +1,55 @@
+<?php
+class JConfig {
+	var $offline = '0';
+	var $editor = 'tinymce';
+	var $list_limit = '20';
+	var $helpurl = 'http://help.joomla.org';
+	var $debug = '0';
+	var $debug_lang = '0';
+	var $sef = '0';
+	var $sef_rewrite = '0';
+	var $sef_suffix = '0';
+	var $feed_limit = '10';
+	var $secret = 'yDn0Rtv3NdH2rf8b';
+	var $gzip = '0';
+	var $error_reporting = '0';
+	var $xmlrpc_server = '0';
+	var $log_path = '\\logs';
+	var $tmp_path = '\\tmp';
+	var $live_site = '';
+	var $force_ssl = '0';
+	var $offset = '0';
+	var $caching = '0';
+	var $cachetime = '15';
+	var $cache_handler = 'file';
+	var $memcache_settings = array();
+	var $ftp_enable = '0';
+	var $ftp_host = '';
+	var $ftp_port = '0';
+	var $ftp_user = 'admin';
+	var $ftp_pass = 'star2012';
+	var $ftp_root = '';
+	var $dbtype = 'mysql';
+	var $host = 'localhost';
+	var $user = 'root';
+	var $db = 'simso';
+	var $dbprefix = 'jos_';
+	var $mailer = 'mail';
+	var $mailfrom = 'admin@scodeweb.com';
+	var $fromname = '';
+	var $sendmail = '';
+	var $smtpauth = '1';
+	var $smtpuser = '';
+	var $smtppass = '';
+	var $smtphost = '';
+	var $MetaAuthor = '1';
+	var $MetaTitle = '1';
+	var $lifetime = '15';
+	var $session_handler = 'none';
+	var $password = '';
+	var $sitename = 'Scodeweb - Sim dien thoai';
+	var $MetaDesc = 'Scodeweb  - Sim dien thoai';
+	var $MetaKeys = 'Scodeweb  - Sim dien thoai';
+	var $offline_message = 'Trang Web này đang tạm ngừng để bảo dưỡng. Và sẽ hoạt động trở lại sớm nhất.';
+}
+?>

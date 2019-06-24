@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/ 
+                                              component-install.dtd">
+<install type="component" version="1.5">
+    <name>simcategory</name>
+    <creationDate>Febrary Year</creationDate>
+    <author>thuclh</author>
+    <authorEmail>thuc.lehuy@gmail.com</authorEmail>
+    <authorUrl>Author's Website</authorUrl>
+    <copyright>Copyright Notice</copyright>
+    <license>Component License Agreement</license>
+    <version>0.1</version>
+    <description>Quan ly loai sim mobile</description>
+    <administration>
+        <menu>Quan ly loai Sim</menu>
+    </administration>
+    <install />
+    <uninstall />
+</install>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.9">
+   <name>Module nhóm Sim</name>                                    
+   <creationDate>March 2009</creationDate>
+   <author>giangtd</author>
+   <authorEmail>giangtd@vinagame.com.vn</authorEmail>
+   <authorUrl>giangtd</authorUrl>
+   <copyright>Copyright Notice</copyright>
+   <license>Component License Agreement</license>
+   <version>0.1</version>
+   <description>Manager categories sim</description>      
+   <files>
+        <filename module="mod_SimCategories">mod_SimCategories.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/_review.php</filename>
+   </files>
+  </install>

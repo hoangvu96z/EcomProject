@@ -1,0 +1,114 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:15:"osCommerce Apps";s:4:"link";s:26:"https://www.oscommerce.com";s:11:"description";s:35:"osCommerce Apps Marketplace listing";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2019 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:69:"https://www.oscommerce.com/public/sites/Website/images/oscommerce.png";s:10:"image_link";s:26:"https://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:35:"JcM Index Page Tumblr Blog CE BS4/3";s:4:"link";s:33:"https://apps.oscommerce.com/AQ11I";s:11:"description";s:872:"A simple add-on to let you place your tumbler blog onto your site index page. <br />
+<br />
+This let&rsquo;s you add a selected number of blogs automatically from your tumbler account. So all you need to do is add a new blog in your tumbler account and it will automatically show on you website. <br />
+<br />
+You can change your options in admin. The user name is the name of your tumbler account.<br />
+<br />
+Is set up to show JcMagpie blogs as default so do change this after install.<br />
+Again totally standalone with no core code change. Simply copy all files into relevant sections and go to admin and install.<br />
+<br />
+Has been tested on CE BS4 and CE BS3 only. Use the right files for your site.<br />
+<br />
+Can be seen working on the test sites<br />
+<br />
+BS3 https://justfastfood.com/<br />
+<br />
+BS4 https://chilleddisplays.co.uk/<br />
+<br />
+Enjoy.";s:7:"pubDate";s:31:"Wed, 17 Apr 2019 12:20:46 +0200";}i:1;a:4:{s:5:"title";s:18:"Google PageRank BS";s:4:"link";s:33:"https://apps.oscommerce.com/ggvTl";s:11:"description";s:474:"Original addon: Google PageRank by mpps<br />
+all credit to original creator!<br />
+--------------------------------------------------------------------------------<br />
+Convert to BS version by ce7 (tested on BS frozen version)<br />
+--------------------------------------------------------------------------------<br />
+<br />
+installation:<br />
+1. unpack the files, upload to your server<br />
+2. admin/modules/content/<br />
+ install and modify to suit your own needs!";s:7:"pubDate";s:31:"Wed, 17 Apr 2019 04:30:16 +0200";}i:2;a:4:{s:5:"title";s:29:"JcM Tumbler blog for osC V1.0";s:4:"link";s:33:"https://apps.oscommerce.com/UzNd0";s:11:"description";s:1746:"3 simple add-on&rsquo;s to let you place your tumbler blog onto your site. <br />
+<br />
+You have 2 blog feed options box or footer and one embed option as a footer.<br />
+<br />
+The most stable is the embed footer which let you manually insert a selected blog onto your website. You have to update this in admin each time you wish to show a new blog.<br />
+Simply go to you blog click share and then embed and copy the script and insert it into the place provided in admin.<br />
+<br />
+The other option is the box or footer feed. These both (only one can be turned on at any one time) let you add a selected number of blogs automatically from your tumbler account. So all you need to do is add a new blog in your tumbler account and it will automatically show on you website. <br />
+<br />
+The only problem with this is not all browsers support this function. Works fine on Firefox.<br />
+<br />
+You can change your options by editing the template file.<br />
+<br />
+// User settings<br />
+	var settings = {<br />
+userName : &quot;jcmagpie&quot;, // Your Tumblr user name<br />
+<br />
+itemsToShow : 10, // Number of Tumblr posts to retrieve<br />
+<br />
+imageSize : 100, // Values can be 75, 100, 250, 400 or 500<br />
+<br />
+shortPublishDate : true, // Whether the publishing date should be cut shorter<br />
+<br />
+timeToWait : 2000 // Milliseconds, 1000 = 1 second<br />
+<br />
+Again totally standalone with no core code change. Simply copy all files into relevant sections and go to admin and install.<br />
+<br />
+Has been tested on CE BS4 and CE BS3 only. Use the right files for your site.<br />
+<br />
+Can be seen working on the test sites<br />
+BS3 https://justfastfood.com/<br />
+BS4 https://chilleddisplays.co.uk/<br />
+<br />
+Enjoy.";s:7:"pubDate";s:31:"Sat, 13 Apr 2019 17:55:46 +0200";}i:3;a:4:{s:5:"title";s:15:"Finance payment";s:4:"link";s:33:"https://apps.oscommerce.com/7PIaY";s:11:"description";s:2174:"BENEFITS FOR CUSTOMERS<br />
+<br />
+Provides a payment method suitable to your customers<br />
+Uplift in sales &amp; conversion - increase by 20-40%<br />
+Increase in average order value (AOV) - boost by 15%<br />
+Improve customer satisfaction - up by 60%<br />
+Widen the addressable market opportunity<br />
+Move into new markets<br />
+No risk for the merchant - get paid in full straight-away<br />
+<br />
+FEATURES<br />
+<br />
+Financing payment option at checkout<br />
+Branded Product page calculator<br />
+Limit available financing plans to price levels<br />
+Limit available financing plans to certain products<br />
+Automatically tell the bank that an order is fulfilled<br />
+Decide at what stage to create the order to suit your business<br />
+When installing the Finance payment gateway extension, the following will be added to your shop:<br />
+Backend - Settings panel with sane defaults, allowing you to configure the Finance payment method to suit your online business<br />
+Backend - Settings panel on product allowing fine tuning financing options on product level if needed<br />
+Backend - Unobtrusive Finance info on orders paid for with Finance<br />
+Frontend - Optional calculator on product page, providing the customer with a breakdown of their chosen finance plan<br />
+Frontend - Checkout payment method with form, allowing the customer to choose a financing plan and deposit to suit them<br />
+Security<br />
+HMAC signing functionality<br />
+PCI compliant level 2<br />
+<br />
+BENEFITS FOR MERCHANTS<br />
+<br />
+What you can offer to your customers<br />
+Deferred Payment - Your customer pays nothing until at the end of the period.<br />
+0% Finance - This is the most popular offer as it drives the most business.<br />
+Low Cost Credit - Offer a more competitive APR compared to traditional sources of finance.<br />
+<br />
+INSTALLATION INSTRUCTIONS<br />
+<br />
+https://github.com/dividohq/finance-plugin-oscommerce<br />
+<br />
+USAGE GUIDE<br />
+<br />
+http://integrations.divido.com/oscommerce/<br />
+<br />
+CHANGELOG<br />
+<br />
+05/04/2019<br />
+Pass customer address into credit application form<br />
+Fix redirect fail to credit application";s:7:"pubDate";s:31:"Fri, 05 Apr 2019 12:55:17 +0200";}i:4;a:4:{s:5:"title";s:32:"JcM World Time V1.0 for CE BS4/3";s:4:"link";s:33:"https://apps.oscommerce.com/sr63F";s:11:"description";s:788:"A simple addon to let you place 6 world time clock onto your website. <br />
+Again totally stand alone with no core code changes. Simply copy all files into relevant sections and go to admin modules /content and install.<br />
+Clocks can be changed in admin, a table is provided in the language file showing the clocks available. You must use the label provided to select as shown below.<br />
+&ldquo;Pick time zone---(&quot;NewYork&quot;).innerHTML = worldClock(-5, &quot;Namerica&quot;)&rdquo;<br />
+So you enter NewYork into box in admin. In the language file you can set the text to anything you like but the clock definition must be set as shown in the table. ,<br />
+define('MODULE_CONTENT_JCM_WORLD_TIME_CLOCK_FIX2', '-5, &quot;Namerica&quot;');<br />
+<br />
+that&rsquo;s it Enjoy.";s:7:"pubDate";s:31:"Sat, 30 Mar 2019 11:15:45 +0100";}}s:11:"items_count";i:5;}

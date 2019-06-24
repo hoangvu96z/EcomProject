@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/ 
+                                              component-install.dtd">
+<install type="component" version="1.5">
+   <name>simscroll</name>
+   <creationDate>MonthName Year</creationDate>
+   <author>thuc.lehuy</author>
+   <authorEmail>thuc.lehuy@gmail.com</authorEmail>
+   <authorUrl>Author's Website</authorUrl>
+   <copyright>Copyright Notice</copyright>
+   <license>Component License Agreement</license>
+   <version>Component Version</version>
+   <description>Chuc nang dat hang sim</description>
+   <administration>
+        <menu>Quan ly chu chay</menu>
+   </administration>
+   <install />
+   <uninstall />
+</install>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<install version="1.5" type="template">
+	<name>ueniversal</name>
+	<creationDate>07.02.2009</creationDate>
+	<author>Fio</author>
+	<copyright>
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution-Share Alike 3.0 Unported License</a>
+	</copyright>
+	<authorEmail>ich@vonfio.de</authorEmail>
+	<authorUrl>http://www.vonfio.de</authorUrl>
+	<version>1.0</version>
+	<description>
+	<![CDATA[
+			<h1 style="padding:10px;">ueniversal</h1>
+			<img src="../templates/ueniversal/template_thumbnail.png" align="left" hspace="10" style="padding:10px;" />
+	<p style="padding:10px;">Lizenziert unter <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" target="_blank">Creative Commons Attribution-Share Alike 3.0 Unported License (im neuen Fenster &ouml;ffnen)</a>.</p>
+	<p style="padding:10px;">Der Verweis zum Autor darf nicht entfernt werden. Mehr Informationen: <a href="http://www.vonfio.de" target="_blank">www.vonfio.de (im neuen Fenster &ouml;ffnen)</a></p>
+	]]>  
+	</description>
+	<files>
+		<filename>templateDetails.xml</filename>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>css/template.css</filename>
+		<filename>head_includes.php</filename>
+		<filename>params.ini</filename>
+	</files>
+	<images>
+		<filename>images/banner.jpg</filename>
+		<filename>images/button.jpg</filename>
+		<filename>images/logo.png</filename>
+		<filename>images/navback.jpg</filename>
+		<filename>images/navleft.jpg</filename>
+		<filename>images/navover.jpg</filename>
+		<filename>images/navright.jpg</filename>
+		<filename>images/footer_left.gif</filename>
+		<filename>images/footer_right.gif</filename>	
+		<filename>images/indent1.png</filename>		
+		<filename>images/indent2.png</filename>		
+		<filename>images/indent3.png</filename>			
+	</images>
+	<positions>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>bottom</position>
+		<position>inset</position>
+		<position>banner</position>
+		<position>header</position>
+		<position>footer</position>
+		<position>newsflash</position>
+		<position>legals</position>
+		<position>pathway</position>
+		<position>breadcrumb</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>user6</position>
+		<position>user7</position>
+		<position>user8</position>
+		<position>user9</position>
+		<position>advert1</position>
+		<position>advert2</position>
+		<position>advert3</position>
+		<position>debug</position>
+		<position>syndicate</position>
+	</positions>
+	<params>
+		<param name="templateWidth" type="text" default="920px" label="Template Width" description="Width in px or %" />
+	</params>
+</install>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.9">
+	<name>findsim</name>
+	<author>thuclh</author>
+	<creationDate>3 2009</creationDate>
+	<copyright></copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>thuc.lehuy@gmail.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>This module will display a findsim box</description>
+	<files>
+		<filename module="mod_findsim">mod_findsim.php</filename>
+	</files>
+</install>
